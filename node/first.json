@@ -1,0 +1,12 @@
+{
+    "name":"Anirudh",
+    "score": 1106,
+    "isAdmin":false,
+    "license":null,
+    "shopItem":["mustard","heena","groundnut"],
+    "myObj":{
+        "name":"nested",
+        "marks":100,
+        "shopitem2":["food","clothes",{"open":true}]
+    }
+}
